@@ -1,0 +1,129 @@
+{
+  "patterns": [
+    {
+      "name": "Two Pointers",
+      "folder": "Two Pointers",
+      "problems": [
+        {"number": 125, "title": "Valid Palindrome"},
+        {"number": 167, "title": "Two Sum II - Input Array Is Sorted"},
+        {"number": 11, "title": "Container With Most Water"}
+      ]
+    },
+    {
+      "name": "Sliding Window",
+      "folder": "Sliding Window",
+      "problems": [
+        {"number": 643, "title": "Maximum Average Subarray I"},
+        {"number": 1343, "title": "Number of Sub-arrays of Size K and Avg Greater Than or Equal to Threshold"},
+        {"number": 3, "title": "Longest Substring Without Repeating Characters"},
+        {"number": 209, "title": "Minimum Size Subarray Sum"},
+        {"number": 424, "title": "Longest Repeating Character Replacement"},
+        {"number": 1004, "title": "Max Consecutive Ones III"},
+        {"number": 567, "title": "Permutation in String"}
+      ]
+    },
+    {
+      "name": "Binary Search",
+      "folder": "Binary Search",
+      "problems": [
+        {"number": 704, "title": "Binary Search"},
+        {"number": 35, "title": "Search Insert Position"},
+        {"number": 34, "title": "Find First and Last Position of Element in Sorted Array"},
+        {"number": 33, "title": "Search in Rotated Sorted Array"},
+        {"number": 153, "title": "Find Minimum in Rotated Sorted Array"},
+        {"number": 875, "title": "Koko Eating Bananas"},
+        {"number": 1011, "title": "Capacity To Ship Packages Within D Days"}
+      ]
+    },
+    {
+      "name": "Fast & Slow Pointers",
+      "folder": "Fast_and_Slow_Pointers",
+      "problems": [
+        {"number": 141, "title": "Linked List Cycle"},
+        {"number": 202, "title": "Happy Number"},
+        {"number": 876, "title": "Middle of the Linked List"},
+        {"number": 142, "title": "Linked List Cycle II"}
+      ]
+    },
+    {
+      "name": "Linked List Reversal",
+      "folder": "Linked_List_Reversal",
+      "problems": [
+        {"number": 206, "title": "Reverse Linked List"},
+        {"number": 234, "title": "Palindrome Linked List"},
+        {"number": 21, "title": "Merge Two Sorted Lists"},
+        {"number": 19, "title": "Remove Nth Node From End of List"}
+      ]
+    },
+    {
+      "name": "Stack / Monotonic Stack",
+      "folder": "Stack_or_Monotonic_Stack",
+      "problems": [
+        {"number": 20, "title": "Valid Parentheses"},
+        {"number": 496, "title": "Next Greater Element I"},
+        {"number": 739, "title": "Daily Temperatures"},
+        {"number": 84, "title": "Largest Rectangle in Histogram"}
+      ]
+    },
+    {
+      "name": "Prefix Sum / Difference Array",
+      "folder": "Prefix Sum_or_Difference Array",
+      "problems": [
+        {"number": 560, "title": "Subarray Sum Equals K"},
+        {"number": 238, "title": "Product of Array Except Self"},
+        {"number": 303, "title": "Range Sum Query - Immutable"}
+      ]
+    },
+    {
+      "name": "Merge Intervals",
+      "folder": "Merge_Intervals",
+      "problems": [
+        {"number": 56, "title": "Merge Intervals"},
+        {"number": 57, "title": "Insert Interval"},
+        {"number": 435, "title": "Non-overlapping Intervals"}
+      ]
+    },
+    {
+      "name": "Cyclic Sort",
+      "folder": "Cyclic_Sort",
+      "problems": [
+        {"number": 268, "title": "Missing Number"},
+        {"number": 448, "title": "Find All Numbers Disappeared in an Array"},
+        {"number": 41, "title": "First Missing Positive"}
+      ]
+    },
+    {
+      "name": "Hashing-Based Patterns",
+      "folder": "Hashing_Patterns",
+      "problems": [
+        {"number": 49, "title": "Group Anagrams"},
+        {"number": 128, "title": "Longest Consecutive Sequence"},
+        {"number": 347, "title": "Top K Frequent Elements"}
+      ]
+    },
+    {
+      "name": "Trees",
+      "folder": "Trees",
+      "problems": [
+        {"number": 104, "title": "Maximum Depth of Binary Tree"},
+        {"number": 226, "title": "Invert Binary Tree"},
+        {"number": 98, "title": "Validate Binary Search Tree"},
+        {"number": 235, "title": "Lowest Common Ancestor of a BST"},
+        {"number": 102, "title": "Binary Tree Level Order Traversal"},
+        {"number": 543, "title": "Diameter of Binary Tree"},
+        {"number": 112, "title": "Path Sum"},
+        {"number": 199, "title": "Binary Tree Right Side View"},
+        {"number": 143, "title": "Reorder List"}
+      ]
+    }
+  ],
+  "roadmap_ahead": [
+    "Recursion Fluency Track (Factorial \u2192 Reverse \u2192 Power \u2192 Subsets \u2192 Permutations)",
+    "Backtracking (Subsets, Permutations, Combination Sum, Word Search, N-Queens)",
+    "Dynamic Programming (1D \u2192 2D \u2192 Edit Distance cluster)",
+    "Heaps & Top-K",
+    "Graphs (BFS/DFS, Topological Sort, Union-Find, Shortest Path)",
+    "Greedy Algorithms",
+    "Advanced topics (Bit Manipulation, Segment Trees, Design Problems)"
+  ]
+}
