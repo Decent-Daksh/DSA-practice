@@ -190,7 +190,6 @@ Then implement, trace through an example, and check edge cases before submitting
 
 ## ✅ Progress Tracker
 
-*(Auto-generated — do not edit this section by hand, run `generate_readme.py` instead)*
 
 {chr(10).join(sections)}
 
