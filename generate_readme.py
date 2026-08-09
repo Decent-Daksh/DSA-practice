@@ -203,7 +203,7 @@ Then implement, trace through an example, and check edge cases before submitting
 
 ## 📁 Structure
 
-Each solved problem lives in its pattern folder. Number-prefixed filenames
+Each solved problem lives in its pattern folder. Number-prefixed filenames and the numbers are their leetcode problem numbers.
 (e.g. `560_Subarray_Sum_Equals_K.py`) are matched most reliably — recommended
 going forward:
 
