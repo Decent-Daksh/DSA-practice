@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 7 / 50 problems solved (14%)**
+**Progress: 8 / 50 problems solved (16%)**
 
 ---
 
@@ -87,7 +87,7 @@ Then implement, trace through an example, and check edge cases before submitting
 |---|---------|--------|
 | 56 | Merge Intervals | ✅ |
 | 57 | Insert Interval | ✅ |
-| 435 | Non-overlapping Intervals | ⏳ Planned |
+| 435 | Non-overlapping Intervals | ✅ |
 
 ### Cyclic Sort
 | # | Problem | Status |
@@ -150,4 +150,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-08-09*
+*Last auto-generated: 2026-08-10*
