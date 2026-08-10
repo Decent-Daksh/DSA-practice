@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 8 / 50 problems solved (16%)**
+**Progress: 9 / 50 problems solved (18%)**
 
 ---
 
@@ -92,7 +92,7 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Cyclic Sort
 | # | Problem | Status |
 |---|---------|--------|
-| 268 | Missing Number | ⏳ Planned |
+| 268 | Missing Number | ✅ |
 | 448 | Find All Numbers Disappeared in an Array | ⏳ Planned |
 | 41 | First Missing Positive | ⏳ Planned |
 
