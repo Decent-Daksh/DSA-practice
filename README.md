@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 10 / 50 problems solved (20%)**
+**Progress: 11 / 50 problems solved (22%)**
 
 ---
 
@@ -94,7 +94,7 @@ Then implement, trace through an example, and check edge cases before submitting
 |---|---------|--------|
 | 268 | Missing Number | ✅ |
 | 448 | Find All Numbers Disappeared in an Array | ✅ |
-| 41 | First Missing Positive | ⏳ Planned |
+| 41 | First Missing Positive | ✅ |
 
 ### Hashing-Based Patterns
 | # | Problem | Status |
