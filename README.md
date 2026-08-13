@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 11 / 50 problems solved (22%)**
+**Progress: 12 / 50 problems solved (24%)**
 
 ---
 
@@ -99,7 +99,7 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Hashing-Based Patterns
 | # | Problem | Status |
 |---|---------|--------|
-| 49 | Group Anagrams | ⏳ Planned |
+| 49 | Group Anagrams | ✅ |
 | 128 | Longest Consecutive Sequence | ⏳ Planned |
 | 347 | Top K Frequent Elements | ⏳ Planned |
 
@@ -150,4 +150,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-08-11*
+*Last auto-generated: 2026-08-14*
