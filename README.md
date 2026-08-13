@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 12 / 50 problems solved (24%)**
+**Progress: 13 / 50 problems solved (26%)**
 
 ---
 
@@ -100,7 +100,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | # | Problem | Status |
 |---|---------|--------|
 | 49 | Group Anagrams | ✅ |
-| 128 | Longest Consecutive Sequence | ⏳ Planned |
+| 128 | Longest Consecutive Sequence | ✅ |
 | 347 | Top K Frequent Elements | ⏳ Planned |
 
 ### Trees
