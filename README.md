@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 15 / 50 problems solved (30%)**
+**Progress: 16 / 50 problems solved (32%)**
 
 ---
 
@@ -73,7 +73,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 20 | Valid Parentheses | ⏳ Planned |
 | 496 | Next Greater Element I | ⏳ Planned |
 | 739 | Daily Temperatures | ✅ |
-| 84 | Largest Rectangle in Histogram | ⏳ Planned |
+| 84 | Largest Rectangle in Histogram | ✅ |
 
 ### Prefix Sum / Difference Array
 | # | Problem | Status |
