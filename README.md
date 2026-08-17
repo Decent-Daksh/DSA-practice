@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 17 / 185 problems solved (9%)**
+**Progress: 19 / 185 problems solved (10%)**
 
 ---
 
@@ -134,8 +134,8 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Recursion Fundamentals
 | # | Problem | Status |
 |---|---------|--------|
-| 344 | Reverse String | ⏳ Planned |
-| 50 | Pow(x, n) | ⏳ Planned |
+| 344 | Reverse String | ✅ |
+| 50 | Pow(x, n) | ✅ |
 | 78 | Subsets | ✅ |
 | 46 | Permutations | ⏳ Planned |
 
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-08-17*
+*Last auto-generated: 2026-08-18*
