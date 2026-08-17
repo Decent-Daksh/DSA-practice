@@ -32,7 +32,14 @@
         {"number": 33, "title": "Search in Rotated Sorted Array"},
         {"number": 153, "title": "Find Minimum in Rotated Sorted Array"},
         {"number": 875, "title": "Koko Eating Bananas"},
-        {"number": 1011, "title": "Capacity To Ship Packages Within D Days"}
+        {"number": 1011, "title": "Capacity To Ship Packages Within D Days"},
+        {"number": 540, "title": "Single Element in a Sorted Array"},
+        {"number": "GFG-NthRoot", "title": "Find Nth Root of M"},
+        {"number": "GFG-KthTwoArrays", "title": "Kth Element of Two Arrays"},
+        {"number": "IB-AllocateBooks", "title": "Allocate Books"},
+        {"number": "SPOJ-AggressiveCows", "title": "Aggressive Cows"},
+        {"number": "GFG-MatrixMedian", "title": "Matrix Median"},
+        {"number": 4, "title": "Median of Two Sorted Arrays"}
       ]
     },
     {
@@ -46,23 +53,44 @@
       ]
     },
     {
-      "name": "Linked List Reversal",
+      "name": "Linked List Reversal & Manipulation",
       "folder": "Linked_List_Reversal",
       "problems": [
         {"number": 206, "title": "Reverse Linked List"},
         {"number": 234, "title": "Palindrome Linked List"},
         {"number": 21, "title": "Merge Two Sorted Lists"},
-        {"number": 19, "title": "Remove Nth Node From End of List"}
+        {"number": 19, "title": "Remove Nth Node From End of List"},
+        {"number": 2, "title": "Add Two Numbers"},
+        {"number": 237, "title": "Delete Node in a Linked List"},
+        {"number": 160, "title": "Intersection of Two Linked Lists"},
+        {"number": 25, "title": "Reverse Nodes in k-Group"},
+        {"number": "GFG-FlattenLL", "title": "Flattening of a LinkedList"},
+        {"number": 61, "title": "Rotate a LinkedList"},
+        {"number": 138, "title": "Copy List with Random Pointer"}
       ]
     },
     {
-      "name": "Stack / Monotonic Stack",
+      "name": "Stack / Monotonic Stack / Queue",
       "folder": "Stack_or_Monotonic_Stack",
       "problems": [
         {"number": 20, "title": "Valid Parentheses"},
         {"number": 496, "title": "Next Greater Element I"},
         {"number": 739, "title": "Daily Temperatures"},
-        {"number": 84, "title": "Largest Rectangle in Histogram"}
+        {"number": 84, "title": "Largest Rectangle in Histogram"},
+        {"number": 42, "title": "Trapping Rain Water"},
+        {"number": "TUF-StackArr", "title": "Implement Stack using Arrays"},
+        {"number": "TUF-QueueArr", "title": "Implement Queue using Arrays"},
+        {"number": 225, "title": "Implement Stack using Queues"},
+        {"number": 232, "title": "Implement Queue using Stacks"},
+        {"number": "TUF-SortStack", "title": "Sort a Stack"},
+        {"number": 155, "title": "Min Stack"},
+        {"number": 146, "title": "LRU Cache"},
+        {"number": 460, "title": "LFU Cache"},
+        {"number": 901, "title": "Online Stock Span"},
+        {"number": 994, "title": "Rotting Oranges"},
+        {"number": 239, "title": "Sliding Window Maximum"},
+        {"number": "IB-NextSmaller", "title": "Next Smaller Element"},
+        {"number": "TUF-Celebrity", "title": "The Celebrity Problem"}
       ]
     },
     {
@@ -102,6 +130,102 @@
       ]
     },
     {
+      "name": "Recursion Fundamentals",
+      "folder": "Recursion_Fundamentals",
+      "problems": [
+        {"number": 344, "title": "Reverse String"},
+        {"number": 50, "title": "Pow(x, n)"},
+        {"number": 78, "title": "Subsets"},
+        {"number": 46, "title": "Permutations"}
+      ]
+    },
+    {
+      "name": "Backtracking",
+      "folder": "Backtracking",
+      "problems": [
+        {"number": 39, "title": "Combination Sum"},
+        {"number": 79, "title": "Word Search"},
+        {"number": 51, "title": "N-Queens"},
+        {"number": 40, "title": "Combination Sum II"},
+        {"number": 90, "title": "Subsets II"},
+        {"number": 131, "title": "Palindrome Partitioning"},
+        {"number": 60, "title": "Permutation Sequence"},
+        {"number": 37, "title": "Sudoku Solver"},
+        {"number": "GFG-MColoring", "title": "M-Coloring Problem"},
+        {"number": "GFG-RatMaze", "title": "Rat in a Maze"},
+        {"number": "GFG-WordBreakPrint", "title": "Word Break (print all ways)"}
+      ]
+    },
+    {
+      "name": "Arrays (Extra)",
+      "folder": "Arrays_Extra",
+      "problems": [
+        {"number": 53, "title": "Maximum Subarray"},
+        {"number": 121, "title": "Best Time to Buy and Sell Stock"},
+        {"number": 31, "title": "Next Permutation"},
+        {"number": 73, "title": "Set Matrix Zeroes"},
+        {"number": 75, "title": "Sort Colors"},
+        {"number": 118, "title": "Pascal's Triangle"},
+        {"number": 48, "title": "Rotate Matrix"},
+        {"number": 287, "title": "Find the Duplicate Number"},
+        {"number": "IB-RepeatMissing", "title": "Repeat and Missing Number Array"},
+        {"number": 169, "title": "Majority Element"},
+        {"number": 229, "title": "Majority Element II"},
+        {"number": 62, "title": "Grid Unique Paths"},
+        {"number": 74, "title": "Search a 2D Matrix"},
+        {"number": 493, "title": "Reverse Pairs"},
+        {"number": 1, "title": "Two Sum"},
+        {"number": 18, "title": "4Sum"},
+        {"number": "IB-SubarrayXOR", "title": "Subarray with Given XOR"}
+      ]
+    },
+    {
+      "name": "Strings",
+      "folder": "Strings",
+      "problems": [
+        {"number": 13, "title": "Roman to Integer"},
+        {"number": 14, "title": "Longest Common Prefix"},
+        {"number": 5, "title": "Longest Palindromic Substring"},
+        {"number": 8, "title": "String to Integer (atoi)"},
+        {"number": 151, "title": "Reverse Words in a String"},
+        {"number": 38, "title": "Count and Say"},
+        {"number": 165, "title": "Compare Version Numbers"},
+        {"number": 242, "title": "Valid Anagram"},
+        {"number": "TUF-KMP", "title": "KMP Algorithm / LPS Array"}
+      ]
+    },
+    {
+      "name": "Dynamic Programming",
+      "folder": "Dynamic_Programming",
+      "problems": [
+        {"number": 70, "title": "Climbing Stairs"},
+        {"number": 322, "title": "Coin Change"},
+        {"number": 1143, "title": "Longest Common Subsequence"},
+        {"number": 72, "title": "Edit Distance"},
+        {"number": 152, "title": "Maximum Product Subarray"},
+        {"number": 300, "title": "Longest Increasing Subsequence"},
+        {"number": "TUF-MatrixChain", "title": "Matrix Chain Multiplication"},
+        {"number": "TUF-Knapsack01", "title": "0-1 Knapsack"},
+        {"number": 64, "title": "Minimum Path Sum"},
+        {"number": 139, "title": "Word Break"},
+        {"number": 416, "title": "Partition Equal Subset Sum"},
+        {"number": 1547, "title": "Minimum Cost to Cut a Stick"},
+        {"number": "TUF-EggDrop", "title": "Super Egg Drop"},
+        {"number": 474, "title": "Ones and Zeroes"}
+      ]
+    },
+    {
+      "name": "Heaps",
+      "folder": "Heaps",
+      "problems": [
+        {"number": 215, "title": "Kth Largest Element in an Array"},
+        {"number": 295, "title": "Find Median from Data Stream"},
+        {"number": "CN-HeapImpl", "title": "Max/Min Heap Implementation"},
+        {"number": "CN-MergeKArrays", "title": "Merge K Sorted Arrays"},
+        {"number": "IB-MaxSumComb", "title": "Maximum Sum Combination"}
+      ]
+    },
+    {
       "name": "Trees",
       "folder": "Trees",
       "problems": [
@@ -113,17 +237,76 @@
         {"number": 543, "title": "Diameter of Binary Tree"},
         {"number": 112, "title": "Path Sum"},
         {"number": 199, "title": "Binary Tree Right Side View"},
-        {"number": 143, "title": "Reorder List"}
+        {"number": 143, "title": "Reorder List"},
+        {"number": 94, "title": "Inorder Traversal"},
+        {"number": 144, "title": "Preorder Traversal"},
+        {"number": 145, "title": "Postorder Traversal"},
+        {"number": "TUF-MorrisIn", "title": "Morris Inorder Traversal"},
+        {"number": "TUF-MorrisPre", "title": "Morris Preorder Traversal"},
+        {"number": "TUF-LeftView", "title": "Left View of Binary Tree"},
+        {"number": "TUF-TopView", "title": "Top View of Binary Tree"},
+        {"number": "TUF-BottomView", "title": "Bottom View of Binary Tree"},
+        {"number": 987, "title": "Vertical Order Traversal"},
+        {"number": 103, "title": "Binary Tree Zigzag Level Order Traversal"},
+        {"number": 110, "title": "Balanced Binary Tree"},
+        {"number": 236, "title": "Lowest Common Ancestor of a Binary Tree"},
+        {"number": 545, "title": "Boundary Traversal of Binary Tree"},
+        {"number": 101, "title": "Symmetric Tree"},
+        {"number": 105, "title": "Construct Binary Tree from Preorder and Inorder Traversal"},
+        {"number": 106, "title": "Construct Binary Tree from Inorder and Postorder Traversal"},
+        {"number": 114, "title": "Flatten Binary Tree to Linked List"},
+        {"number": 124, "title": "Binary Tree Maximum Path Sum"},
+        {"number": 700, "title": "Search in a Binary Search Tree"},
+        {"number": 1008, "title": "Construct Binary Search Tree from Preorder Traversal"},
+        {"number": 230, "title": "Kth Smallest Element in a BST"},
+        {"number": "TUF-KthLargeSmallBST", "title": "Kth Largest and Smallest Element in BST"},
+        {"number": 173, "title": "Binary Search Tree Iterator"},
+        {"number": 297, "title": "Serialize and Deserialize Binary Tree"}
+      ]
+    },
+    {
+      "name": "Graphs",
+      "folder": "Graphs",
+      "problems": [
+        {"number": "TUF-BFSDFS", "title": "BFS & DFS Traversal Techniques"},
+        {"number": 133, "title": "Clone Graph"},
+        {"number": 200, "title": "Number of Islands"},
+        {"number": 785, "title": "Is Graph Bipartite"},
+        {"number": "TUF-CycleUndirected", "title": "Cycle Detection - Undirected Graph (BFS & DFS)"},
+        {"number": "TUF-CycleDirected", "title": "Cycle Detection - Directed Graph (BFS & DFS)"},
+        {"number": "TUF-TopoSort", "title": "Topological Sort / Kahn's Algorithm"},
+        {"number": "TUF-Prims", "title": "Prim's Algorithm (MST)"},
+        {"number": "TUF-Kruskals", "title": "Kruskal's Algorithm (MST)"},
+        {"number": "TUF-FloydWarshall", "title": "Floyd-Warshall Algorithm"},
+        {"number": "TUF-BellmanFord", "title": "Bellman-Ford Algorithm"},
+        {"number": "TUF-Dijkstra", "title": "Dijkstra's Algorithm"}
+      ]
+    },
+    {
+      "name": "Greedy",
+      "folder": "Greedy",
+      "problems": [
+        {"number": 455, "title": "Assign Cookies"},
+        {"number": "GFG-NMeetings", "title": "N Meetings in One Room"},
+        {"number": "GFG-FracKnapsack", "title": "Fractional Knapsack"},
+        {"number": "GFG-JobSequencing", "title": "Job Sequencing Problem"},
+        {"number": "GFG-MinPlatforms", "title": "Minimum Platforms"}
+      ]
+    },
+    {
+      "name": "Trie",
+      "folder": "Trie",
+      "problems": [
+        {"number": 208, "title": "Implement Trie (Prefix Tree)"},
+        {"number": "TUF-TrieII", "title": "Implement Trie II"},
+        {"number": 421, "title": "Maximum XOR of Two Numbers in an Array"},
+        {"number": 1707, "title": "Maximum XOR With an Element From Array"},
+        {"number": "TUF-DistinctSubstr", "title": "Number of Distinct Substrings in a String"},
+        {"number": "TUF-LongestWordPrefix", "title": "Longest Word with All Prefixes"}
       ]
     }
   ],
   "roadmap_ahead": [
-    "Recursion Fluency Track (Factorial \u2192 Reverse \u2192 Power \u2192 Subsets \u2192 Permutations)",
-    "Backtracking (Subsets, Permutations, Combination Sum, Word Search, N-Queens)",
-    "Dynamic Programming (1D \u2192 2D \u2192 Edit Distance cluster)",
-    "Heaps & Top-K",
-    "Graphs (BFS/DFS, Topological Sort, Union-Find, Shortest Path)",
-    "Greedy Algorithms",
-    "Advanced topics (Bit Manipulation, Segment Trees, Design Problems)"
+    "Advanced Topics (Bit Manipulation, Segment Trees, Union-Find, Design Problems)"
   ]
 }
