@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 20 / 185 problems solved (11%)**
+**Progress: 21 / 185 problems solved (11%)**
 
 ---
 
@@ -142,7 +142,7 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Backtracking
 | # | Problem | Status |
 |---|---------|--------|
-| 39 | Combination Sum | ⏳ Planned |
+| 39 | Combination Sum | ✅ |
 | 79 | Word Search | ⏳ Planned |
 | 51 | N-Queens | ⏳ Planned |
 | 40 | Combination Sum II | ⏳ Planned |
