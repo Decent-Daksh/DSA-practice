@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 19 / 185 problems solved (10%)**
+**Progress: 20 / 185 problems solved (11%)**
 
 ---
 
@@ -137,7 +137,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 344 | Reverse String | ✅ |
 | 50 | Pow(x, n) | ✅ |
 | 78 | Subsets | ✅ |
-| 46 | Permutations | ⏳ Planned |
+| 46 | Permutations | ✅ |
 
 ### Backtracking
 | # | Problem | Status |
