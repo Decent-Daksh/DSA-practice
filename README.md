@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 23 / 185 problems solved (12%)**
+**Progress: 24 / 185 problems solved (13%)**
 
 ---
 
@@ -27,7 +27,7 @@ Then implement, trace through an example, and check edge cases before submitting
 |---|---------|--------|
 | 125 | Valid Palindrome | ✅ |
 | 167 | Two Sum II - Input Array Is Sorted | ✅ |
-| 11 | Container With Most Water | ⏳ Planned |
+| 11 | Container With Most Water | ✅ |
 
 ### Sliding Window
 | # | Problem | Status |
