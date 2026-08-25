@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 24 / 185 problems solved (13%)**
+**Progress: 25 / 185 problems solved (14%)**
 
 ---
 
@@ -32,7 +32,7 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Sliding Window
 | # | Problem | Status |
 |---|---------|--------|
-| 643 | Maximum Average Subarray I | ⏳ Planned |
+| 643 | Maximum Average Subarray I | ✅ |
 | 1343 | Number of Sub-arrays of Size K and Avg Greater Than or Equal to Threshold | ⏳ Planned |
 | 3 | Longest Substring Without Repeating Characters | ⏳ Planned |
 | 209 | Minimum Size Subarray Sum | ⏳ Planned |
