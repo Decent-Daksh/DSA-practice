@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 27 / 185 problems solved (15%)**
+**Progress: 28 / 185 problems solved (15%)**
 
 ---
 
@@ -35,7 +35,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 643 | Maximum Average Subarray I | ✅ |
 | 1343 | Number of Sub-arrays of Size K and Avg Greater Than or Equal to Threshold | ✅ |
 | 3 | Longest Substring Without Repeating Characters | ✅ |
-| 209 | Minimum Size Subarray Sum | ⏳ Planned |
+| 209 | Minimum Size Subarray Sum | ✅ |
 | 424 | Longest Repeating Character Replacement | ⏳ Planned |
 | 1004 | Max Consecutive Ones III | ⏳ Planned |
 | 567 | Permutation in String | ⏳ Planned |
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-08-26*
+*Last auto-generated: 2026-08-27*
