@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 29 / 185 problems solved (16%)**
+**Progress: 30 / 185 problems solved (16%)**
 
 ---
 
@@ -37,7 +37,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 3 | Longest Substring Without Repeating Characters | ✅ |
 | 209 | Minimum Size Subarray Sum | ✅ |
 | 424 | Longest Repeating Character Replacement | ✅ |
-| 1004 | Max Consecutive Ones III | ⏳ Planned |
+| 1004 | Max Consecutive Ones III | ✅ |
 | 567 | Permutation in String | ⏳ Planned |
 
 ### Binary Search
