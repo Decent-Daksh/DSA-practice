@@ -9,8 +9,8 @@ class Solution:
                 return mid
             elif nums[mid]<target:
                 left = mid+1
-                pos =left
+                
             else:
                 right =mid -1
-                pos =mid
-        return pos
+                
+        return left
