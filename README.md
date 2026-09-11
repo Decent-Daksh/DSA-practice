@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 31 / 185 problems solved (17%)**
+**Progress: 32 / 185 problems solved (17%)**
 
 ---
 
@@ -38,7 +38,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 209 | Minimum Size Subarray Sum | ✅ |
 | 424 | Longest Repeating Character Replacement | ✅ |
 | 1004 | Max Consecutive Ones III | ✅ |
-| 567 | Permutation in String | ⏳ Planned |
+| 567 | Permutation in String | ✅ |
 
 ### Binary Search
 | # | Problem | Status |
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-08*
+*Last auto-generated: 2026-09-11*
