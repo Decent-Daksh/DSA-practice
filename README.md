@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 36 / 185 problems solved (19%)**
+**Progress: 37 / 185 problems solved (20%)**
 
 ---
 
@@ -49,7 +49,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 33 | Search in Rotated Sorted Array | ✅ |
 | 153 | Find Minimum in Rotated Sorted Array | ✅ |
 | 875 | Koko Eating Bananas | ✅ |
-| 1011 | Capacity To Ship Packages Within D Days | ⏳ Planned |
+| 1011 | Capacity To Ship Packages Within D Days | ✅ |
 | 540 | Single Element in a Sorted Array | ⏳ Planned |
 | GFG-NthRoot | Find Nth Root of M | ⏳ Planned |
 | GFG-KthTwoArrays | Kth Element of Two Arrays | ⏳ Planned |
