@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 32 / 185 problems solved (17%)**
+**Progress: 34 / 185 problems solved (18%)**
 
 ---
 
@@ -45,8 +45,8 @@ Then implement, trace through an example, and check edge cases before submitting
 |---|---------|--------|
 | 704 | Binary Search | ⏳ Planned |
 | 35 | Search Insert Position | ✅ |
-| 34 | Find First and Last Position of Element in Sorted Array | ⏳ Planned |
-| 33 | Search in Rotated Sorted Array | ⏳ Planned |
+| 34 | Find First and Last Position of Element in Sorted Array | ✅ |
+| 33 | Search in Rotated Sorted Array | ✅ |
 | 153 | Find Minimum in Rotated Sorted Array | ⏳ Planned |
 | 875 | Koko Eating Bananas | ⏳ Planned |
 | 1011 | Capacity To Ship Packages Within D Days | ⏳ Planned |
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-11*
+*Last auto-generated: 2026-09-16*
