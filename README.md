@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 38 / 185 problems solved (21%)**
+**Progress: 39 / 185 problems solved (21%)**
 
 ---
 
@@ -51,7 +51,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 875 | Koko Eating Bananas | ✅ |
 | 1011 | Capacity To Ship Packages Within D Days | ✅ |
 | 540 | Single Element in a Sorted Array | ✅ |
-| GFG-NthRoot | Find Nth Root of M | ⏳ Planned |
+| GFG-NthRoot | Find Nth Root of M | ✅ |
 | GFG-KthTwoArrays | Kth Element of Two Arrays | ⏳ Planned |
 | IB-AllocateBooks | Allocate Books | ⏳ Planned |
 | SPOJ-AggressiveCows | Aggressive Cows | ⏳ Planned |
