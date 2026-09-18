@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 39 / 185 problems solved (21%)**
+**Progress: 40 / 185 problems solved (22%)**
 
 ---
 
@@ -52,7 +52,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 1011 | Capacity To Ship Packages Within D Days | ✅ |
 | 540 | Single Element in a Sorted Array | ✅ |
 | GFG-NthRoot | Find Nth Root of M | ✅ |
-| GFG-KthTwoArrays | Kth Element of Two Arrays | ⏳ Planned |
+| GFG-KthTwoArrays | Kth Element of Two Arrays | ✅ |
 | IB-AllocateBooks | Allocate Books | ⏳ Planned |
 | SPOJ-AggressiveCows | Aggressive Cows | ⏳ Planned |
 | GFG-MatrixMedian | Matrix Median | ⏳ Planned |
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-17*
+*Last auto-generated: 2026-09-18*
