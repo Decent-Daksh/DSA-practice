@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 40 / 185 problems solved (22%)**
+**Progress: 41 / 185 problems solved (22%)**
 
 ---
 
@@ -56,7 +56,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | IB-AllocateBooks | Allocate Books | ⏳ Planned |
 | SPOJ-AggressiveCows | Aggressive Cows | ⏳ Planned |
 | GFG-MatrixMedian | Matrix Median | ⏳ Planned |
-| 4 | Median of Two Sorted Arrays | ⏳ Planned |
+| 4 | Median of Two Sorted Arrays | ✅ |
 
 ### Fast & Slow Pointers
 | # | Problem | Status |
@@ -315,4 +315,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-18*
+*Last auto-generated: 2026-09-20*
