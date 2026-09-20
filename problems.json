@@ -6,7 +6,9 @@
       "problems": [
         {"number": 125, "title": "Valid Palindrome"},
         {"number": 167, "title": "Two Sum II - Input Array Is Sorted"},
-        {"number": 11, "title": "Container With Most Water"}
+        {"number": 11, "title": "Container With Most Water"},
+        {"number": 15, "title": "3Sum"},
+        {"number": 26, "title": "Remove Duplicates from Sorted Array"}
       ]
     },
     {
@@ -19,7 +21,9 @@
         {"number": 209, "title": "Minimum Size Subarray Sum"},
         {"number": 424, "title": "Longest Repeating Character Replacement"},
         {"number": 1004, "title": "Max Consecutive Ones III"},
-        {"number": 567, "title": "Permutation in String"}
+        {"number": 567, "title": "Permutation in String"},
+        {"number": 76, "title": "Minimum Window Substring"},
+        {"number": 438, "title": "Find All Anagrams in a String"}
       ]
     },
     {
@@ -39,7 +43,9 @@
         {"number": "IB-AllocateBooks", "title": "Allocate Books"},
         {"number": "SPOJ-AggressiveCows", "title": "Aggressive Cows"},
         {"number": "GFG-MatrixMedian", "title": "Matrix Median"},
-        {"number": 4, "title": "Median of Two Sorted Arrays"}
+        {"number": 4, "title": "Median of Two Sorted Arrays"},
+        {"number": 162, "title": "Find Peak Element"},
+        {"number": 69, "title": "Sqrt(x)"}
       ]
     },
     {
@@ -66,7 +72,10 @@
         {"number": 25, "title": "Reverse Nodes in k-Group"},
         {"number": "GFG-FlattenLL", "title": "Flattening of a LinkedList"},
         {"number": 61, "title": "Rotate a LinkedList"},
-        {"number": 138, "title": "Copy List with Random Pointer"}
+        {"number": 138, "title": "Copy List with Random Pointer"},
+        {"number": 92, "title": "Reverse Linked List II"},
+        {"number": 148, "title": "Sort List"},
+        {"number": 328, "title": "Odd Even Linked List"}
       ]
     },
     {
@@ -90,7 +99,9 @@
         {"number": 994, "title": "Rotting Oranges"},
         {"number": 239, "title": "Sliding Window Maximum"},
         {"number": "IB-NextSmaller", "title": "Next Smaller Element"},
-        {"number": "TUF-Celebrity", "title": "The Celebrity Problem"}
+        {"number": "TUF-Celebrity", "title": "The Celebrity Problem"},
+        {"number": 503, "title": "Next Greater Element II"},
+        {"number": 150, "title": "Evaluate Reverse Polish Notation"}
       ]
     },
     {
@@ -99,7 +110,9 @@
       "problems": [
         {"number": 560, "title": "Subarray Sum Equals K"},
         {"number": 238, "title": "Product of Array Except Self"},
-        {"number": 303, "title": "Range Sum Query - Immutable"}
+        {"number": 303, "title": "Range Sum Query - Immutable"},
+        {"number": "GFG-ZeroSumSubarray", "title": "Largest Subarray with 0 Sum"},
+        {"number": 525, "title": "Contiguous Array"}
       ]
     },
     {
@@ -126,7 +139,8 @@
       "problems": [
         {"number": 49, "title": "Group Anagrams"},
         {"number": 128, "title": "Longest Consecutive Sequence"},
-        {"number": 347, "title": "Top K Frequent Elements"}
+        {"number": 347, "title": "Top K Frequent Elements"},
+        {"number": 217, "title": "Contains Duplicate"}
       ]
     },
     {
@@ -136,7 +150,8 @@
         {"number": 344, "title": "Reverse String"},
         {"number": 50, "title": "Pow(x, n)"},
         {"number": 78, "title": "Subsets"},
-        {"number": 46, "title": "Permutations"}
+        {"number": 46, "title": "Permutations"},
+        {"number": "GFG-SubsetSums", "title": "Subset Sums"}
       ]
     },
     {
@@ -153,7 +168,12 @@
         {"number": 37, "title": "Sudoku Solver"},
         {"number": "GFG-MColoring", "title": "M-Coloring Problem"},
         {"number": "GFG-RatMaze", "title": "Rat in a Maze"},
-        {"number": "GFG-WordBreakPrint", "title": "Word Break (print all ways)"}
+        {"number": "GFG-WordBreakPrint", "title": "Word Break (print all ways)"},
+        {"number": 17, "title": "Letter Combinations of a Phone Number"},
+        {"number": 22, "title": "Generate Parentheses"},
+        {"number": 77, "title": "Combinations"},
+        {"number": 47, "title": "Permutations II"},
+        {"number": 216, "title": "Combination Sum III"}
       ]
     },
     {
@@ -176,7 +196,10 @@
         {"number": 493, "title": "Reverse Pairs"},
         {"number": 1, "title": "Two Sum"},
         {"number": 18, "title": "4Sum"},
-        {"number": "IB-SubarrayXOR", "title": "Subarray with Given XOR"}
+        {"number": "IB-SubarrayXOR", "title": "Subarray with Given XOR"},
+        {"number": 88, "title": "Merge Sorted Array"},
+        {"number": "TUF-CountInversions", "title": "Count Inversions in an Array"},
+        {"number": 485, "title": "Max Consecutive Ones"}
       ]
     },
     {
@@ -191,7 +214,11 @@
         {"number": 38, "title": "Count and Say"},
         {"number": 165, "title": "Compare Version Numbers"},
         {"number": 242, "title": "Valid Anagram"},
-        {"number": "TUF-KMP", "title": "KMP Algorithm / LPS Array"}
+        {"number": "TUF-KMP", "title": "KMP Algorithm / LPS Array"},
+        {"number": 12, "title": "Integer to Roman"},
+        {"number": "TUF-RabinKarp", "title": "Rabin-Karp Algorithm"},
+        {"number": "TUF-ZFunction", "title": "Z-Function"},
+        {"number": "IB-MinCharsPalindrome", "title": "Minimum Characters to Add at Front to Make Palindrome"}
       ]
     },
     {
@@ -211,7 +238,15 @@
         {"number": 416, "title": "Partition Equal Subset Sum"},
         {"number": 1547, "title": "Minimum Cost to Cut a Stick"},
         {"number": "TUF-EggDrop", "title": "Super Egg Drop"},
-        {"number": 474, "title": "Ones and Zeroes"}
+        {"number": 474, "title": "Ones and Zeroes"},
+        {"number": 198, "title": "House Robber"},
+        {"number": 91, "title": "Decode Ways"},
+        {"number": 518, "title": "Coin Change II"},
+        {"number": "TUF-SubsetSum", "title": "Subset Sum Equal to Target"},
+        {"number": "TUF-RodCutting", "title": "Rod Cutting"},
+        {"number": "TUF-MaxSumIncSubseq", "title": "Maximum Sum Increasing Subsequence"},
+        {"number": 132, "title": "Palindrome Partitioning II"},
+        {"number": 85, "title": "Maximal Rectangle"}
       ]
     },
     {
@@ -222,7 +257,10 @@
         {"number": 295, "title": "Find Median from Data Stream"},
         {"number": "CN-HeapImpl", "title": "Max/Min Heap Implementation"},
         {"number": "CN-MergeKArrays", "title": "Merge K Sorted Arrays"},
-        {"number": "IB-MaxSumComb", "title": "Maximum Sum Combination"}
+        {"number": "IB-MaxSumComb", "title": "Maximum Sum Combination"},
+        {"number": "GFG-KthSmallest", "title": "Kth Smallest Element in an Array"},
+        {"number": 23, "title": "Merge k Sorted Lists"},
+        {"number": 973, "title": "K Closest Points to Origin"}
       ]
     },
     {
@@ -261,7 +299,25 @@
         {"number": 230, "title": "Kth Smallest Element in a BST"},
         {"number": "TUF-KthLargeSmallBST", "title": "Kth Largest and Smallest Element in BST"},
         {"number": 173, "title": "Binary Search Tree Iterator"},
-        {"number": 297, "title": "Serialize and Deserialize Binary Tree"}
+        {"number": 297, "title": "Serialize and Deserialize Binary Tree"},
+        {"number": 100, "title": "Same Tree"},
+        {"number": "TUF-RootToNode", "title": "Root to Node Path in Binary Tree"},
+        {"number": "TUF-IterativeTraversals", "title": "Iterative Inorder, Preorder and Postorder Traversal"},
+        {"number": 662, "title": "Maximum Width of Binary Tree"},
+        {"number": "TUF-ChildrenSum", "title": "Children Sum Property in Binary Tree"},
+        {"number": 863, "title": "All Nodes Distance K in Binary Tree"},
+        {"number": 2385, "title": "Amount of Time for Binary Tree to Be Infected"},
+        {"number": 222, "title": "Count Complete Tree Nodes"},
+        {"number": 116, "title": "Populating Next Right Pointers in Each Node"},
+        {"number": 108, "title": "Convert Sorted Array to Binary Search Tree"},
+        {"number": 701, "title": "Insert into a Binary Search Tree"},
+        {"number": 450, "title": "Delete Node in a BST"},
+        {"number": "TUF-InorderSuccessor", "title": "Inorder Successor in BST"},
+        {"number": "TUF-FloorCeilBST", "title": "Floor and Ceil in a BST"},
+        {"number": 653, "title": "Two Sum IV - Input is a BST"},
+        {"number": 99, "title": "Recover Binary Search Tree"},
+        {"number": 333, "title": "Largest BST Subtree"},
+        {"number": "TUF-BTtoDLL", "title": "Binary Tree to Doubly Linked List"}
       ]
     },
     {
@@ -279,7 +335,21 @@
         {"number": "TUF-Kruskals", "title": "Kruskal's Algorithm (MST)"},
         {"number": "TUF-FloydWarshall", "title": "Floyd-Warshall Algorithm"},
         {"number": "TUF-BellmanFord", "title": "Bellman-Ford Algorithm"},
-        {"number": "TUF-Dijkstra", "title": "Dijkstra's Algorithm"}
+        {"number": "TUF-Dijkstra", "title": "Dijkstra's Algorithm"},
+        {"number": 733, "title": "Flood Fill"},
+        {"number": 547, "title": "Number of Provinces"},
+        {"number": 207, "title": "Course Schedule"},
+        {"number": 210, "title": "Course Schedule II"},
+        {"number": 802, "title": "Find Eventual Safe States"},
+        {"number": 130, "title": "Surrounded Regions"},
+        {"number": 417, "title": "Pacific Atlantic Water Flow"},
+        {"number": 127, "title": "Word Ladder"},
+        {"number": 743, "title": "Network Delay Time"},
+        {"number": 787, "title": "Cheapest Flights Within K Stops"},
+        {"number": "TUF-ShortestPathDAG", "title": "Shortest Path in a Directed Acyclic Graph"},
+        {"number": "TUF-AlienDict", "title": "Alien Dictionary"},
+        {"number": "TUF-Bridges", "title": "Bridges in a Graph"},
+        {"number": "TUF-Kosaraju", "title": "Strongly Connected Components (Kosaraju's Algorithm)"}
       ]
     },
     {
@@ -290,7 +360,11 @@
         {"number": "GFG-NMeetings", "title": "N Meetings in One Room"},
         {"number": "GFG-FracKnapsack", "title": "Fractional Knapsack"},
         {"number": "GFG-JobSequencing", "title": "Job Sequencing Problem"},
-        {"number": "GFG-MinPlatforms", "title": "Minimum Platforms"}
+        {"number": "GFG-MinPlatforms", "title": "Minimum Platforms"},
+        {"number": "TUF-MinCoins", "title": "Find Minimum Number of Coins (Greedy)"},
+        {"number": 55, "title": "Jump Game"},
+        {"number": 45, "title": "Jump Game II"},
+        {"number": 134, "title": "Gas Station"}
       ]
     },
     {

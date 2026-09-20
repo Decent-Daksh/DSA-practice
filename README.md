@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 41 / 185 problems solved (22%)**
+**Progress: 42 / 259 problems solved (16%)**
 
 ---
 
@@ -28,6 +28,8 @@ Then implement, trace through an example, and check edge cases before submitting
 | 125 | Valid Palindrome | ✅ |
 | 167 | Two Sum II - Input Array Is Sorted | ✅ |
 | 11 | Container With Most Water | ✅ |
+| 15 | 3Sum | ⏳ Planned |
+| 26 | Remove Duplicates from Sorted Array | ⏳ Planned |
 
 ### Sliding Window
 | # | Problem | Status |
@@ -39,6 +41,8 @@ Then implement, trace through an example, and check edge cases before submitting
 | 424 | Longest Repeating Character Replacement | ✅ |
 | 1004 | Max Consecutive Ones III | ✅ |
 | 567 | Permutation in String | ✅ |
+| 76 | Minimum Window Substring | ⏳ Planned |
+| 438 | Find All Anagrams in a String | ⏳ Planned |
 
 ### Binary Search
 | # | Problem | Status |
@@ -57,6 +61,8 @@ Then implement, trace through an example, and check edge cases before submitting
 | SPOJ-AggressiveCows | Aggressive Cows | ⏳ Planned |
 | GFG-MatrixMedian | Matrix Median | ⏳ Planned |
 | 4 | Median of Two Sorted Arrays | ✅ |
+| 162 | Find Peak Element | ⏳ Planned |
+| 69 | Sqrt(x) | ⏳ Planned |
 
 ### Fast & Slow Pointers
 | # | Problem | Status |
@@ -80,6 +86,9 @@ Then implement, trace through an example, and check edge cases before submitting
 | GFG-FlattenLL | Flattening of a LinkedList | ⏳ Planned |
 | 61 | Rotate a LinkedList | ⏳ Planned |
 | 138 | Copy List with Random Pointer | ⏳ Planned |
+| 92 | Reverse Linked List II | ⏳ Planned |
+| 148 | Sort List | ⏳ Planned |
+| 328 | Odd Even Linked List | ⏳ Planned |
 
 ### Stack / Monotonic Stack / Queue
 | # | Problem | Status |
@@ -102,6 +111,8 @@ Then implement, trace through an example, and check edge cases before submitting
 | 239 | Sliding Window Maximum | ⏳ Planned |
 | IB-NextSmaller | Next Smaller Element | ⏳ Planned |
 | TUF-Celebrity | The Celebrity Problem | ⏳ Planned |
+| 503 | Next Greater Element II | ⏳ Planned |
+| 150 | Evaluate Reverse Polish Notation | ⏳ Planned |
 
 ### Prefix Sum / Difference Array
 | # | Problem | Status |
@@ -109,6 +120,8 @@ Then implement, trace through an example, and check edge cases before submitting
 | 560 | Subarray Sum Equals K | ✅ |
 | 238 | Product of Array Except Self | ✅ |
 | 303 | Range Sum Query - Immutable | ✅ |
+| GFG-ZeroSumSubarray | Largest Subarray with 0 Sum | ⏳ Planned |
+| 525 | Contiguous Array | ⏳ Planned |
 
 ### Merge Intervals
 | # | Problem | Status |
@@ -130,6 +143,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 49 | Group Anagrams | ✅ |
 | 128 | Longest Consecutive Sequence | ✅ |
 | 347 | Top K Frequent Elements | ✅ |
+| 217 | Contains Duplicate | ⏳ Planned |
 
 ### Recursion Fundamentals
 | # | Problem | Status |
@@ -138,6 +152,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 50 | Pow(x, n) | ✅ |
 | 78 | Subsets | ✅ |
 | 46 | Permutations | ✅ |
+| GFG-SubsetSums | Subset Sums | ⏳ Planned |
 
 ### Backtracking
 | # | Problem | Status |
@@ -153,6 +168,11 @@ Then implement, trace through an example, and check edge cases before submitting
 | GFG-MColoring | M-Coloring Problem | ⏳ Planned |
 | GFG-RatMaze | Rat in a Maze | ⏳ Planned |
 | GFG-WordBreakPrint | Word Break (print all ways) | ⏳ Planned |
+| 17 | Letter Combinations of a Phone Number | ✅ |
+| 22 | Generate Parentheses | ⏳ Planned |
+| 77 | Combinations | ⏳ Planned |
+| 47 | Permutations II | ⏳ Planned |
+| 216 | Combination Sum III | ⏳ Planned |
 
 ### Arrays (Extra)
 | # | Problem | Status |
@@ -174,6 +194,9 @@ Then implement, trace through an example, and check edge cases before submitting
 | 1 | Two Sum | ⏳ Planned |
 | 18 | 4Sum | ⏳ Planned |
 | IB-SubarrayXOR | Subarray with Given XOR | ⏳ Planned |
+| 88 | Merge Sorted Array | ⏳ Planned |
+| TUF-CountInversions | Count Inversions in an Array | ⏳ Planned |
+| 485 | Max Consecutive Ones | ⏳ Planned |
 
 ### Strings
 | # | Problem | Status |
@@ -187,6 +210,10 @@ Then implement, trace through an example, and check edge cases before submitting
 | 165 | Compare Version Numbers | ⏳ Planned |
 | 242 | Valid Anagram | ⏳ Planned |
 | TUF-KMP | KMP Algorithm / LPS Array | ⏳ Planned |
+| 12 | Integer to Roman | ⏳ Planned |
+| TUF-RabinKarp | Rabin-Karp Algorithm | ⏳ Planned |
+| TUF-ZFunction | Z-Function | ⏳ Planned |
+| IB-MinCharsPalindrome | Minimum Characters to Add at Front to Make Palindrome | ⏳ Planned |
 
 ### Dynamic Programming
 | # | Problem | Status |
@@ -205,6 +232,14 @@ Then implement, trace through an example, and check edge cases before submitting
 | 1547 | Minimum Cost to Cut a Stick | ⏳ Planned |
 | TUF-EggDrop | Super Egg Drop | ⏳ Planned |
 | 474 | Ones and Zeroes | ⏳ Planned |
+| 198 | House Robber | ⏳ Planned |
+| 91 | Decode Ways | ⏳ Planned |
+| 518 | Coin Change II | ⏳ Planned |
+| TUF-SubsetSum | Subset Sum Equal to Target | ⏳ Planned |
+| TUF-RodCutting | Rod Cutting | ⏳ Planned |
+| TUF-MaxSumIncSubseq | Maximum Sum Increasing Subsequence | ⏳ Planned |
+| 132 | Palindrome Partitioning II | ⏳ Planned |
+| 85 | Maximal Rectangle | ⏳ Planned |
 
 ### Heaps
 | # | Problem | Status |
@@ -214,6 +249,9 @@ Then implement, trace through an example, and check edge cases before submitting
 | CN-HeapImpl | Max/Min Heap Implementation | ⏳ Planned |
 | CN-MergeKArrays | Merge K Sorted Arrays | ⏳ Planned |
 | IB-MaxSumComb | Maximum Sum Combination | ⏳ Planned |
+| GFG-KthSmallest | Kth Smallest Element in an Array | ⏳ Planned |
+| 23 | Merge k Sorted Lists | ⏳ Planned |
+| 973 | K Closest Points to Origin | ⏳ Planned |
 
 ### Trees
 | # | Problem | Status |
@@ -251,6 +289,24 @@ Then implement, trace through an example, and check edge cases before submitting
 | TUF-KthLargeSmallBST | Kth Largest and Smallest Element in BST | ⏳ Planned |
 | 173 | Binary Search Tree Iterator | ⏳ Planned |
 | 297 | Serialize and Deserialize Binary Tree | ⏳ Planned |
+| 100 | Same Tree | ⏳ Planned |
+| TUF-RootToNode | Root to Node Path in Binary Tree | ⏳ Planned |
+| TUF-IterativeTraversals | Iterative Inorder, Preorder and Postorder Traversal | ⏳ Planned |
+| 662 | Maximum Width of Binary Tree | ⏳ Planned |
+| TUF-ChildrenSum | Children Sum Property in Binary Tree | ⏳ Planned |
+| 863 | All Nodes Distance K in Binary Tree | ⏳ Planned |
+| 2385 | Amount of Time for Binary Tree to Be Infected | ⏳ Planned |
+| 222 | Count Complete Tree Nodes | ⏳ Planned |
+| 116 | Populating Next Right Pointers in Each Node | ⏳ Planned |
+| 108 | Convert Sorted Array to Binary Search Tree | ⏳ Planned |
+| 701 | Insert into a Binary Search Tree | ⏳ Planned |
+| 450 | Delete Node in a BST | ⏳ Planned |
+| TUF-InorderSuccessor | Inorder Successor in BST | ⏳ Planned |
+| TUF-FloorCeilBST | Floor and Ceil in a BST | ⏳ Planned |
+| 653 | Two Sum IV - Input is a BST | ⏳ Planned |
+| 99 | Recover Binary Search Tree | ⏳ Planned |
+| 333 | Largest BST Subtree | ⏳ Planned |
+| TUF-BTtoDLL | Binary Tree to Doubly Linked List | ⏳ Planned |
 
 ### Graphs
 | # | Problem | Status |
@@ -267,6 +323,20 @@ Then implement, trace through an example, and check edge cases before submitting
 | TUF-FloydWarshall | Floyd-Warshall Algorithm | ⏳ Planned |
 | TUF-BellmanFord | Bellman-Ford Algorithm | ⏳ Planned |
 | TUF-Dijkstra | Dijkstra's Algorithm | ⏳ Planned |
+| 733 | Flood Fill | ⏳ Planned |
+| 547 | Number of Provinces | ⏳ Planned |
+| 207 | Course Schedule | ⏳ Planned |
+| 210 | Course Schedule II | ⏳ Planned |
+| 802 | Find Eventual Safe States | ⏳ Planned |
+| 130 | Surrounded Regions | ⏳ Planned |
+| 417 | Pacific Atlantic Water Flow | ⏳ Planned |
+| 127 | Word Ladder | ⏳ Planned |
+| 743 | Network Delay Time | ⏳ Planned |
+| 787 | Cheapest Flights Within K Stops | ⏳ Planned |
+| TUF-ShortestPathDAG | Shortest Path in a Directed Acyclic Graph | ⏳ Planned |
+| TUF-AlienDict | Alien Dictionary | ⏳ Planned |
+| TUF-Bridges | Bridges in a Graph | ⏳ Planned |
+| TUF-Kosaraju | Strongly Connected Components (Kosaraju's Algorithm) | ⏳ Planned |
 
 ### Greedy
 | # | Problem | Status |
@@ -276,6 +346,10 @@ Then implement, trace through an example, and check edge cases before submitting
 | GFG-FracKnapsack | Fractional Knapsack | ⏳ Planned |
 | GFG-JobSequencing | Job Sequencing Problem | ⏳ Planned |
 | GFG-MinPlatforms | Minimum Platforms | ⏳ Planned |
+| TUF-MinCoins | Find Minimum Number of Coins (Greedy) | ⏳ Planned |
+| 55 | Jump Game | ⏳ Planned |
+| 45 | Jump Game II | ⏳ Planned |
+| 134 | Gas Station | ⏳ Planned |
 
 ### Trie
 | # | Problem | Status |
@@ -315,4 +389,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-20*
+*Last auto-generated: 2026-09-21*
