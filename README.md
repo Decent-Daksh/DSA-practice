@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 43 / 259 problems solved (17%)**
+**Progress: 44 / 259 problems solved (17%)**
 
 ---
 
@@ -170,7 +170,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | GFG-WordBreakPrint | Word Break (print all ways) | ⏳ Planned |
 | 17 | Letter Combinations of a Phone Number | ✅ |
 | 22 | Generate Parentheses | ✅ |
-| 77 | Combinations | ⏳ Planned |
+| 77 | Combinations | ✅ |
 | 47 | Permutations II | ⏳ Planned |
 | 216 | Combination Sum III | ⏳ Planned |
 
