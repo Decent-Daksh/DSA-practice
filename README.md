@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 45 / 259 problems solved (17%)**
+**Progress: 46 / 259 problems solved (18%)**
 
 ---
 
@@ -161,7 +161,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 79 | Word Search | ⏳ Planned |
 | 51 | N-Queens | ⏳ Planned |
 | 40 | Combination Sum II | ⏳ Planned |
-| 90 | Subsets II | ⏳ Planned |
+| 90 | Subsets II | ✅ |
 | 131 | Palindrome Partitioning | ⏳ Planned |
 | 60 | Permutation Sequence | ⏳ Planned |
 | 37 | Sudoku Solver | ⏳ Planned |
@@ -389,4 +389,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-21*
+*Last auto-generated: 2026-09-22*
