@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 47 / 259 problems solved (18%)**
+**Progress: 48 / 259 problems solved (19%)**
 
 ---
 
@@ -162,7 +162,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 51 | N-Queens | ⏳ Planned |
 | 40 | Combination Sum II | ⏳ Planned |
 | 90 | Subsets II | ✅ |
-| 131 | Palindrome Partitioning | ⏳ Planned |
+| 131 | Palindrome Partitioning | ✅ |
 | 60 | Permutation Sequence | ⏳ Planned |
 | 37 | Sudoku Solver | ✅ |
 | GFG-MColoring | M-Coloring Problem | ⏳ Planned |
