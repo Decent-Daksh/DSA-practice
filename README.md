@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 46 / 259 problems solved (18%)**
+**Progress: 47 / 259 problems solved (18%)**
 
 ---
 
@@ -164,7 +164,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 90 | Subsets II | ✅ |
 | 131 | Palindrome Partitioning | ⏳ Planned |
 | 60 | Permutation Sequence | ⏳ Planned |
-| 37 | Sudoku Solver | ⏳ Planned |
+| 37 | Sudoku Solver | ✅ |
 | GFG-MColoring | M-Coloring Problem | ⏳ Planned |
 | GFG-RatMaze | Rat in a Maze | ⏳ Planned |
 | GFG-WordBreakPrint | Word Break (print all ways) | ⏳ Planned |
@@ -389,4 +389,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-22*
+*Last auto-generated: 2026-09-26*
