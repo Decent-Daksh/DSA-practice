@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 50 / 259 problems solved (19%)**
+**Progress: 51 / 259 problems solved (20%)**
 
 ---
 
@@ -167,7 +167,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 37 | Sudoku Solver | ✅ |
 | GFG-MColoring | M-Coloring Problem | ✅ |
 | GFG-RatMaze | Rat in a Maze | ✅ |
-| GFG-WordBreakPrint | Word Break (print all ways) | ⏳ Planned |
+| 140 | Word Break II | ✅ |
 | 17 | Letter Combinations of a Phone Number | ✅ |
 | 22 | Generate Parentheses | ✅ |
 | 77 | Combinations | ✅ |
