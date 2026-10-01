@@ -7,7 +7,7 @@ class Solution:
                 if board[i][c] == digit:
                     return False
             start_row = (r//3)*3
-            start_col = (r//3)*3
+            start_col = (c//3)*3
             for row in range(start_row, start_row+3):
                 for col in range(start_col, start_col+3):
                     if board[row][col]==digit:
@@ -19,8 +19,8 @@ class Solution:
         def best_cell(board):
             best= None
             best_candidates = None
-            for row in range(1,10):
-                for col in range(1,10):
+            for row in range(9):
+                for col in range(9):
                     if board[row][col]=='.':
                         candidates = get_candidates(board,row,col)
                         if best is None or len(candidates)<len(best_candidates):

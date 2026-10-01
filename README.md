@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 51 / 259 problems solved (20%)**
+**Progress: 52 / 259 problems solved (20%)**
 
 ---
 
@@ -177,7 +177,7 @@ Then implement, trace through an example, and check edge cases before submitting
 ### Arrays (Extra)
 | # | Problem | Status |
 |---|---------|--------|
-| 53 | Maximum Subarray | ⏳ Planned |
+| 53 | Maximum Subarray | ✅ |
 | 121 | Best Time to Buy and Sell Stock | ⏳ Planned |
 | 31 | Next Permutation | ⏳ Planned |
 | 73 | Set Matrix Zeroes | ⏳ Planned |
@@ -389,4 +389,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-09-28*
+*Last auto-generated: 2026-10-01*
