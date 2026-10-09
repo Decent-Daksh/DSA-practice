@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 55 / 259 problems solved (21%)**
+**Progress: 56 / 259 problems solved (22%)**
 
 ---
 
@@ -77,7 +77,7 @@ Then implement, trace through an example, and check edge cases before submitting
 |---|---------|--------|
 | 206 | Reverse Linked List | ⏳ Planned |
 | 234 | Palindrome Linked List | ⏳ Planned |
-| 21 | Merge Two Sorted Lists | ⏳ Planned |
+| 21 | Merge Two Sorted Lists | ✅ |
 | 19 | Remove Nth Node From End of List | ⏳ Planned |
 | 2 | Add Two Numbers | ⏳ Planned |
 | 237 | Delete Node in a Linked List | ⏳ Planned |
@@ -389,4 +389,4 @@ dsa-practice/
 
 ---
 
-*Last auto-generated: 2026-10-01*
+*Last auto-generated: 2026-10-09*
