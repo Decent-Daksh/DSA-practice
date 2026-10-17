@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 64 / 259 problems solved (25%)**
+**Progress: 65 / 259 problems solved (25%)**
 
 ---
 
@@ -84,7 +84,7 @@ Then implement, trace through an example, and check edge cases before submitting
 | 160 | Intersection of Two Linked Lists | ✅ |
 | 25 | Reverse Nodes in k-Group | ✅ |
 | GFG-FlattenLL | Flattening of a LinkedList | ✅ |
-| 61 | Rotate a LinkedList | ⏳ Planned |
+| 61 | Rotate a LinkedList | ✅ |
 | 138 | Copy List with Random Pointer | ⏳ Planned |
 | 92 | Reverse Linked List II | ⏳ Planned |
 | 148 | Sort List | ⏳ Planned |
