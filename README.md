@@ -4,7 +4,7 @@ Pattern-wise Data Structures & Algorithms practice repository, built as part of 
 
 **LeetCode:** [Daksh_Devyansh](https://leetcode.com/Daksh_Devyansh)
 
-**Progress: 66 / 259 problems solved (25%)**
+**Progress: 69 / 259 problems solved (27%)**
 
 ---
 
@@ -86,9 +86,9 @@ Then implement, trace through an example, and check edge cases before submitting
 | GFG-FlattenLL | Flattening of a LinkedList | ✅ |
 | 61 | Rotate a LinkedList | ✅ |
 | 138 | Copy List with Random Pointer | ✅ |
-| 92 | Reverse Linked List II | ⏳ Planned |
-| 148 | Sort List | ⏳ Planned |
-| 328 | Odd Even Linked List | ⏳ Planned |
+| 92 | Reverse Linked List II | ✅ |
+| 148 | Sort List | ✅ |
+| 328 | Odd Even Linked List | ✅ |
 
 ### Stack / Monotonic Stack / Queue
 | # | Problem | Status |
